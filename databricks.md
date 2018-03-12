@@ -9,3 +9,4 @@
   * Also Databricks can preempt their tasks actively: https://docs.databricks.com/spark/latest/spark-sql/preemption.html#preemption
   
   * https://databricks.com/blog/2018/03/06/apache-spark-2-3-with-native-kubernetes-support.html
+    * https://spark.apache.org/docs/latest/running-on-kubernetes.html
