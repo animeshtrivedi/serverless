@@ -10,3 +10,10 @@
   
   * https://databricks.com/blog/2018/03/06/apache-spark-2-3-with-native-kubernetes-support.html
     * https://spark.apache.org/docs/latest/running-on-kubernetes.html
+   
+### Is Databricks stack available for your own cluster (or the serverless stuff)? 
+No. https://databricks.com/product/faq 
+
+*Can I run Databricks in my own datacenter/cluster? No, not at the moment. However, we are continuously investigating other deployment scenarios, some of them involving on-premise clusters.*
+
+
